@@ -1,16 +1,45 @@
-# This is a sample Python script.
+# The Signal Journey
+## Editorial Bible
+### Versione 0.1
 
-# Press Maiusc+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+## Scopo
 
+Questo documento definisce lo stile editoriale dell'opera.
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+## Principio narrativo
 
+The Signal Journey non parte dai concetti astratti.
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+Parte dai fenomeni.
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+Prima si osserva.
+Poi si formula una domanda.
+Poi si costruisce la spiegazione.
+Infine si formalizza il concetto.
+
+## Formula di ogni tappa
+
+Ogni tappa deve seguire, quando possibile, questa struttura:
+
+1. Domanda iniziale
+2. Osservazione concreta
+3. Spiegazione progressiva
+4. Collegamento interdisciplinare
+5. Valigia del viaggiatore
+6. Domanda per la tappa successiva
+
+## Livelli di lettura
+
+- 🟢 Musicista
+- 🔵 Tecnico
+- 🟠 Progettista
+- 🔴 Ricercatore
+
+## Elementi ricorrenti
+
+- **La valigia del viaggiatore**
+- **Una domanda prima di ripartire**
+- **Idea fondante**
+- **Collegamenti con MusicJourney**
+- **Collegamenti con Hardware Lab**
+- **Materiale GitHub**

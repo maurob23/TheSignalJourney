@@ -1,16 +1,47 @@
-# This is a sample Python script.
+# The Signal Journey
+## Decision Log
 
-# Press Maiusc+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+## DL-0001 — Nome del progetto
 
+**Decisione:** il progetto editoriale si chiama **The Signal Journey**.
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+**Motivazione:** il filo conduttore dell'opera è il viaggio del segnale attraverso musica, fisica, elettronica, DSP e percezione.
 
+---
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+## DL-0002 — Struttura a tappe
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+**Decisione:** i capitoli del Volume 0 vengono presentati come tappe.
+
+**Motivazione:** la metafora del viaggio è centrale nell'identità editoriale.
+
+---
+
+## DL-0003 — Livelli di lettura
+
+**Decisione:** ogni contenuto potrà essere letto su più livelli:
+
+- Musicista
+- Tecnico
+- Progettista
+- Ricercatore
+
+---
+
+## DL-0004 — Segnale, energia e informazione
+
+**Decisione:** l'opera seguirà progressivamente tre concetti intrecciati:
+
+- il segnale;
+- l'energia;
+- l'informazione.
+
+**Motivazione:** il segnale trasporta informazione, ma ha bisogno di energia e trasformazioni per proseguire il proprio viaggio senza degradarsi.
+
+---
+
+## DL-0005 — Idea fondante
+
+**Decisione:** alcune intuizioni non verranno trattate come modifiche locali ai capitoli, ma come idee fondanti dell'intera opera.
+
+**Esempio:** il musicista come primo generatore energetico del sistema.

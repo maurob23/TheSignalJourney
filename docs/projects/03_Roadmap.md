@@ -1,16 +1,35 @@
-# This is a sample Python script.
+# The Signal Journey
+## Roadmap
 
-# Press Maiusc+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+## Fase 0 — Fondazione del progetto
 
+- [x] Definizione visione
+- [x] Creazione repository
+- [x] Definizione struttura documentale
+- [x] Avvio Volume 0
+- [ ] Project Book completo
+- [ ] Editorial Bible completa
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+## Fase 1 — Volume 0
 
+Obiettivo: definire tono, metodo e filo narrativo.
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+- [x] Prologo
+- [x] Tappa 1
+- [x] Tappa 2
+- [x] Tappa 3
+- [ ] Tappa 4
+- [ ] Revisione Engineering Draft
+- [ ] Editorial Draft
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+## Fase 2 — MusicJourney parallelo
+
+Obiettivo: sviluppare il corso pratico in parallelo all'opera.
+
+## Fase 3 — Ableton Lab
+
+Obiettivo: creare esempi sonori, preset e sessioni Ableton.
+
+## Fase 4 — Hardware Lab
+
+Obiettivo: collegare il viaggio del segnale alla progettazione hardware.

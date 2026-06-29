@@ -1,16 +1,38 @@
-# This is a sample Python script.
+# The Signal Journey
+## Bibliografia
 
-# Press Maiusc+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+Documento in costruzione.
 
+## Musica e teoria
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+Da definire.
 
+## Acustica e fisica del suono
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+Da definire.
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+## Elettronica analogica
+
+Da definire.
+
+## Sintesi sonora
+
+Da definire.
+
+## DSP
+
+Da definire.
+
+## Informazione, percezione e neuroscienze
+
+Da definire.
+
+## Note
+
+La bibliografia dovrà distinguere:
+
+- testi fondativi;
+- testi didattici;
+- manuali tecnici;
+- risorse operative;
+- riferimenti per approfondimenti.

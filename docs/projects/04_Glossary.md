@@ -1,16 +1,36 @@
-# This is a sample Python script.
+# The Signal Journey
+## Glossario
 
-# Press Maiusc+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+## Segnale
 
+Grandezza variabile nel tempo che trasporta informazione.
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+## Energia
 
+Grandezza fisica che permette a un fenomeno di compiere lavoro e a una perturbazione di propagarsi.
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+Nel progetto viene osservata come compagna del segnale: non coincide con l'informazione, ma consente al segnale di proseguire il viaggio.
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+## Informazione
+
+Ciò che il segnale trasporta e che deve essere preservato durante le trasformazioni.
+
+## Vibrazione
+
+Oscillazione di un sistema attorno a una posizione di equilibrio.
+
+## Onda
+
+Perturbazione che si propaga nello spazio attraverso un mezzo o un campo, trasportando energia senza trasportare necessariamente materia.
+
+## Frequenza
+
+Numero di oscillazioni complete in un secondo.
+
+## Periodo
+
+Tempo necessario per completare un'oscillazione.
+
+## Timbro
+
+Qualità percettiva che consente di distinguere due suoni con stessa altezza e intensità.

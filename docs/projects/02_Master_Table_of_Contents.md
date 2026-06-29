@@ -1,16 +1,34 @@
-# This is a sample Python script.
+# The Signal Journey
+## Master Table of Contents
 
-# Press Maiusc+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+## Volume 0 — Le origini del viaggio
 
+- [x] Prologo — Come una chitarra mi ha riportato all'elettronica
+- [x] Tappa 1 — Il viaggio del segnale
+- [x] Tappa 2 — All'origine del suono
+- [x] Tappa 3 — Quando una vibrazione diventa un'onda
+- [ ] Tappa 4 — Il ritmo della vibrazione: periodo e frequenza
+- [ ] Tappa 5 — Suoni gravi e suoni acuti
+- [ ] Tappa 6 — Le armoniche
+- [ ] Tappa 7 — Timbro e spettro
+- [ ] Tappa 8 — Rappresentare il suono
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+## Volume 1 — Musica e teoria del suono
 
+Da definire.
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+## Volume 2 — Sintesi sonora e Ableton Live
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+Da definire.
+
+## Volume 3 — Elettronica analogica
+
+Da definire.
+
+## Volume 4 — DSP e sistemi digitali
+
+Da definire.
+
+## Volume 5 — Progettazione dell'amplificatore per chitarra
+
+Da definire.

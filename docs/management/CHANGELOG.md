@@ -1,16 +1,21 @@
-# This is a sample Python script.
+# The Signal Journey
+## Changelog
 
-# Press Maiusc+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+## 2026-06-29 — Avvio repository
 
+### Aggiunto
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+- Struttura iniziale della repository.
+- Project Context.
+- Volume 0 in Engineering Draft:
+  - Prologo
+  - Tappa 1
+  - Tappa 2
+  - Tappa 3
+- Cartella management.
+- Decision Log.
+- ADR iniziali.
 
+### Note
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+La struttura viene considerata parte dell'architettura del progetto e non deve essere modificata senza decisione esplicita.
